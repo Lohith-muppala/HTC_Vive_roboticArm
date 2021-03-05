@@ -9,7 +9,7 @@
 - [Contributors](#contributors)
 - [References](#references)
 
-### **Video with a full explanation:**
+### **Video with a full explanation and Demo:**
 - [HTC Vive controlled robotic arm (ST Robotics R17)](https://www.youtube.com/watch?v=tr84YwzHvdM)
 
 ### **Getting Started**
@@ -77,5 +77,3 @@ Set requireHmd to FALSE.
 - [ST Robotics](https://strobotics.com/info2.htm)
 
 
-### **Demo**
-To understand the functionality and a demo, please watch https://youtu.be/tr84YwzHvdM
